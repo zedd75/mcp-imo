@@ -1,4 +1,4 @@
-# mcp-immo-france
+# mcp-immo
 
 [![CI](https://github.com/zedd75/mcp-immo-france/actions/workflows/ci.yml/badge.svg)](https://github.com/zedd75/mcp-immo-france/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/mcp-immo-france)](https://www.npmjs.com/package/mcp-immo-france)
